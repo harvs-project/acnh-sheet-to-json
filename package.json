@@ -1,0 +1,21 @@
+{
+  "name": "acnh-sheet-to-json",
+  "description": "Convert community maintained acnh databse do json.",
+  "private": true,
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harvs-project/acnh-sheet-to-json.git"
+  },
+  "author": "André",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/harvs-project/acnh-sheet-to-json/issues"
+  },
+  "homepage": "https://github.com/harvs-project/acnh-sheet-to-json#readme",
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.27",
+    "prettier": "^2.2.1",
+    "typescript": "^4.2.3"
+  }
+}
