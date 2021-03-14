@@ -2,7 +2,10 @@
   "name": "acnh-sheet-to-json",
   "description": "Convert community maintained acnh databse do json.",
   "private": true,
-  "scripts": {},
+  "scripts": {
+    "build": "tsc --build",
+    "lint": "eslint .; prettier --loglevel warn --check ."
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/harvs-project/acnh-sheet-to-json.git"
