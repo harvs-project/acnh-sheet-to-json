@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/harvs-project/acnh-sheet-to-json#readme",
   "devDependencies": {
-    "@types/google-apps-script": "^1.0.41",
+    "@types/google-apps-script": "^1.0.44",
     "@typescript-eslint/eslint-plugin": "^4.33.0",
     "@typescript-eslint/parser": "^4.33.0",
     "eslint": "^7.32.0",
